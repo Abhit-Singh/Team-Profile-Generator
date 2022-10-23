@@ -8,7 +8,8 @@ I developed this Team-Profile-Generator .I am studying web development and it's 
   ## Installation
 You need to have vs code installed and then just clone this repository into your machine.
 ## Usage
-<li>Here is the link to a video which demonstrates how to use this read me generator.</li>
+<li>Here is the link to a video which demonstrates how to use this read me generator.
+https://youtu.be/jHJVwAvWRLo</li>
 <br>
 <li>WHEN user is prompted for their team members and their information
 THEN an HTML file is generated that displays a nicely formatted team roster based on user input.</li>
@@ -31,6 +32,9 @@ THEN they exit and the application, and the HTML is generated</li>
 
 
 ## This is a screenshot of Team-Profile-Generator  -
+
+<img width="1440" alt="Screen Shot 2022-10-23 at 3 33 30 pm" src="https://user-images.githubusercontent.com/110076459/197374424-e973a39c-59c8-44c6-8df6-cc665361655c.png">
+
 
 
 ## credits
