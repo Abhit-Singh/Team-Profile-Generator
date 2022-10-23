@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.jumbotron {
+    background-color: #E84756;
+}
+
+.card-header {
+    color: white;
+    background-color: #0077F7;
+}
+
+.card {
+    justify-content: center;
+    margin: 10px;
+}
+
+#employee {
+    display: flex;
+    justify-content: center;
+}
+
+.list-group {
+    padding: 10px;
+    background-color: rgb(243, 243, 243);
+}
