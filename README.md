@@ -33,9 +33,8 @@ THEN they exit and the application, and the HTML is generated</li>
 
 ## This is a screenshot of Team-Profile-Generator  -
 
-<img width="1440" alt="Screen Shot 2022-10-23 at 3 33 30 pm" src="https://user-images.githubusercontent.com/110076459/197374424-e973a39c-59c8-44c6-8df6-cc665361655c.png">
 
-
+<img width="558" alt="Screen Shot 2022-10-23 at 3 33 30 pm" src="https://user-images.githubusercontent.com/110076459/197374612-752b59c0-4609-4e62-99d9-2557c879f3a0.png">
 
 ## credits
 
